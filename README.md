@@ -1,2 +1,2 @@
 # intermittent-posture-control-model
-Complete later
+The codes for implmentation of intermittent posture control model.
